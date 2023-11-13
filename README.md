@@ -2,7 +2,7 @@
 
 - 🎓 I’m currently studying Infromation Systems at UNICAMP
 - 👩‍💼 IT Coordinator, Atria Jr.
-- 💻 Full Stack developer
+- 💻 Software Engineer, BTG Pactual
 
 <h4>Skills</h4>
 
