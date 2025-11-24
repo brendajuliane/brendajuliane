@@ -1,7 +1,8 @@
 ### Hello! I'm Brenda 🙂
 
-- 🎓 Bachelor in Information Systems, UNICAMP
 - 💻 Software Engineer, BTG Pactual
+- 🟡 AWS Certified AI Practitioner
+- 🎓 Bachelor in Information Systems, UNICAMP
 
 <h4>Skills</h4>
 
