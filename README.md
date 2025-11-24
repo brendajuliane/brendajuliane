@@ -1,7 +1,6 @@
 ### Hello! I'm Brenda 🙂
 
-- 🎓 I’m currently studying Infromation Systems at UNICAMP
-- 👩‍💼 IT Coordinator, Atria Jr.
+- 🎓 Bachelor in Information Systems, UNICAMP
 - 💻 Software Engineer, BTG Pactual
 
 <h4>Skills</h4>
