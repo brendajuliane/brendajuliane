@@ -1,4 +1,4 @@
-### Hello! I'm Brenda 🙂
+### Hello! I'm Brenda :)
 
 - 💻 Software Engineer, BTG Pactual
 - 🟡 AWS Certified AI Practitioner
